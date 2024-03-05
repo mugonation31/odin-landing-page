@@ -18,5 +18,9 @@ and margin
 
 By the end of this project I should have the confidence to recreate any design using the above skill.
 
+# images 
+header main image is from unsplash 
+credit to Igor Miske - Macbook Pro showing vegetable dish
+
 
 
