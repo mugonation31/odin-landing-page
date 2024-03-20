@@ -20,7 +20,7 @@ By the end of this project I should have the confidence to recreate any design u
 
 # images 
 header main image is from unsplash 
-credit to Igor Miske - Macbook Pro showing vegetable dish
+credit to Jackson Sophat - Orange plastic blocks on white surface
 
 
 
