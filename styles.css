@@ -159,6 +159,47 @@ padding: 150px 0 150px 0;
   font-weight: bold;
 }
 
+.action{
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 150px 0 150px 0;
+}
+
+.call {
+display: flex;
+justify-content: center;
+align-items: center;
+width: 1000px;
+gap: 100px;
+background-color: #3882f6;
+border-radius: 5px;
+padding: 50px 0 50px 0;
+}
+
+.para {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: #f9faf8;
+}
+
+.head {
+  font-weight: bold;
+  line-height: 25px;
+}
+
+.sign-up1 {
+background-color: #3882f6 ;
+color: #f9faf8;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight: bold;
+font-size: 15px;
+padding: 10px 40px;
+border: 1px solid #f9faf8;
+border-radius: 5px;
+}
+
+
+
 
 
 
