@@ -1,14 +1,11 @@
 body {
-display: flex;
-justify-content: center;
-/* background-color: black; */
 margin: 0;
 padding: 0;
 }
 
 .container {
-width: 1500px;
-border: 1px red dotted;
+max-width: 1500px;
+margin: 0 auto;
 }
 
 .header {
@@ -198,7 +195,16 @@ border: 1px solid #f9faf8;
 border-radius: 5px;
 }
 
+.footer {
+text-align: center;
+background-color: #1f2937;
+padding: 50px 0 50px 0;
+}
 
+.copyright {
+color:#f9faf8;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 
 
 
